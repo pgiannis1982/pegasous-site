@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pegasous | Multimedia Production</title>
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+    <div class="logo">PEGASOUS</div>
+    <nav>
+        <a href="#services">Υπηρεσίες</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#about">Σχετικά</a>
+        <a href="#contact">Επικοινωνία</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h1>We Create Cinematic Stories</h1>
+    <p>High-End Video Production & Commercial Spots</p>
+    <a href="#contact" class="btn">ΖΗΤΗΣΤΕ ΠΡΟΣΦΟΡΑ</a>
+</section>
+
+<section id="services" class="section">
+    <h2>Υπηρεσίες</h2>
+    <div class="grid">
+        <div class="card">🎥 Video Production</div>
+        <div class="card">📺 Commercial Spots</div>
+        <div class="card">📱 Social Media Content</div>
+        <div class="card">🚁 Drone Filming</div>
+        <div class="card">🎬 Post Production</div>
+    </div>
+</section>
+
+<section id="portfolio" class="section dark">
+    <h2>Portfolio</h2>
+    <p>Προσθέστε εδώ YouTube ή Vimeo links των έργων σας</p>
+</section>
+
+<section id="about" class="section">
+    <h2>About Pegasous</h2>
+    <p>
+    Στην Pegasous δημιουργούμε δυνατές οπτικές εμπειρίες που αναδεικνύουν brands.
+    Συνδυάζουμε δημιουργικότητα, τεχνολογία και στρατηγική για υψηλής ποιότητας παραγωγές.
+    </p>
+</section>
+
+<section id="contact" class="section dark">
+    <h2>Επικοινωνία</h2>
+    <p>Email: your@email.com</p>
+    <p>Τηλέφωνο: +30 69XXXXXXXX</p>
+</section>
+
+<footer>
+    © 2026 Pegasous Multimedia Production
+</footer>
+
+</body>
+</html>
